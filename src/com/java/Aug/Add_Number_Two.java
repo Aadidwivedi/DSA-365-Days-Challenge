@@ -8,7 +8,6 @@ public class Add_Number_Two {
 
         System.out.print("Enter the first number : ");
         int firstNumber = Integer.parseInt(sc.next());
-
         System.out.print("Enter the first number : ");
         int secondNumber = Integer.parseInt(sc.next());
 
