@@ -1,22 +1,16 @@
-package com.java.Day_2Aug;
+package com.java.Day_02_Aug;
 
 import java.util.Scanner;
 
-public class Swap_Two_Number {
+public class Add_Number_Two {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the first number : ");
         int firstNumber = Integer.parseInt(sc.next());
-
         System.out.print("Enter the first number : ");
         int secondNumber = Integer.parseInt(sc.next());
 
-        firstNumber = secondNumber+firstNumber;
-        secondNumber = firstNumber-secondNumber;
-        firstNumber = firstNumber-secondNumber;
-
-        System.out.println("Swaping fo Two Number :" + "\nfirstNumber :" +firstNumber +"\nSecondNumber :"+secondNumber);
-
+        System.out.println("Sum of Two Numbers :" +(firstNumber+secondNumber));
     }
 }

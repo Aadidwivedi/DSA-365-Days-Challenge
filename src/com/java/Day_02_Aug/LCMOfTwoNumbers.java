@@ -1,4 +1,4 @@
-package com.java.Day_2Aug;
+package com.java.Day_02_Aug;
 
 import java.util.Scanner;
 
