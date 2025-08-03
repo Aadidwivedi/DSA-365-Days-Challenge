@@ -1,4 +1,4 @@
-package com.java.Day_02_Aug;
+package com.java.day_02_aug;
 
 public class FirstAndLastSumArr {
     public static void main(String[] args) {
