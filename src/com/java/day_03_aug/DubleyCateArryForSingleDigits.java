@@ -1,6 +1,6 @@
 package com.java.day_03_aug;
 
-public class DubleyCateArry {
+public class DubleyCateArryForSingleDigits {
     public static void main(String[] args) {
         int[] arr = new int[] {2,6,2,5,5,6,5};
 
