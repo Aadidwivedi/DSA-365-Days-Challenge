@@ -1,8 +1,6 @@
 package com.java.day_03_aug;
 
-import java.util.Scanner;
-
-public class rotateArrays {
+public class RotateArrays {
     public static void main(String[] args) {
         int num[] =  new int[] {1,2,3,4,5}; // 1 2 3 4 5 => 2 3 4 5 1 //
 
